@@ -10,8 +10,11 @@ export default defineNuxtConfig({
       theme:  'github-light',
     },
     markdown: {
-      remarkPlugin: [
-        'remark-highlight.js',
+      remarkPlugins: [
+        'remark-math',
+      ],
+      rehypePlugins: [
+        'rehype-mathjax',
       ],
       toc: {
         depth: 1,
