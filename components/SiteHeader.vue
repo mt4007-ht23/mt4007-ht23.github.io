@@ -6,7 +6,7 @@
       <figure class="site-logo">
         <NuxtLink to="/">
         <h1>
-        MT3003 ST23
+        MT4007 HT23
         </h1>
         </NuxtLink>
       </figure>
