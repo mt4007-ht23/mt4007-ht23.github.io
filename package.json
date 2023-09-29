@@ -17,6 +17,7 @@
     "@vueuse/core": "^10.4.1",
     "rehype-mathjax": "^4.0.3",
     "remark-highlight.js": "^7.0.1",
-    "remark-math": "^5.1.1"
+    "remark-math": "^5.1.1",
+    "reveal.js": "^4.6.1"
   }
 }
