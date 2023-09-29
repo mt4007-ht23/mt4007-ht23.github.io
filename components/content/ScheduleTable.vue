@@ -17,16 +17,15 @@
       1
      </td>
      <td>
-      Tue 2023-10-31,
-      <br/>
+      Tue, Oct 31
       13:00 - 17:00
      </td>
      <td>
+     <NuxtLink to="/lecture/1">
       Introduction. Software,
-    GitHub and Markdown. [Lecture
-    Slides], We start at 9am. Handledning starts as soon as lecture
-    is done.
-     </td>
+    GitHub and Markdown 
+     </NuxtLink>
+    </td>
     </tr>
     <tr>
      <td>

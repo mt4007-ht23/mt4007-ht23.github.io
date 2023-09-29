@@ -1,11 +1,4 @@
----
-title: "Project (3hp, grade A-F)"
-output:
-  html_document:
-    self_contained: true
-    toc: false
-    toc_depth: 2
----
+# Project 
 
 ## Summary 
 

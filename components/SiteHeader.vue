@@ -25,16 +25,19 @@
             <ul class="links absolute right-11 top-15 bg-gray-200 p-4 rounded
             md:flex md:relative md:p-0 md:bg-transparent">
               <li class="link">
-                <NuxtLink to="/">Hem</NuxtLink>
+                <NuxtLink to="/">Home</NuxtLink>
               </li>
               <li class="link">
-                <NuxtLink to="/schedule">Veckoschema</NuxtLink>
+                <NuxtLink to="/lecture">Lectures</NuxtLink>
               </li>
               <li class="link">
-                <NuxtLink to="/lab">Laborationer</NuxtLink>
+                <NuxtLink to="/homework">Homework</NuxtLink>
               </li>
               <li class="link">
-                <NuxtLink to="/project">Projekt</NuxtLink>
+                <NuxtLink to="/project">Project</NuxtLink>
+              </li>
+              <li class="link">
+                <NuxtLink to="/about">About</NuxtLink>
               </li>
             </ul>
           </div>
