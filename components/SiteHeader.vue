@@ -36,9 +36,6 @@
               <li class="link">
                 <NuxtLink to="/project">Project</NuxtLink>
               </li>
-              <li class="link">
-                <NuxtLink to="/about">About</NuxtLink>
-              </li>
             </ul>
           </div>
         </div>
