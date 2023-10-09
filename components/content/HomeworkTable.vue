@@ -12,39 +12,34 @@
   </thead>
   <tbody>
     <tr>
-      <td><NuxtLink to="/homework/1">HW1: Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, deserunt.</NuxtLink></td>
-      <td>1900-01-01</td>
-      <td>1900-01-01</td>
+      <td><NuxtLink to="">HW1: TBA</NuxtLink></td>
+      <td>2023-10-30</td>
+      <td>2023-11-06 18:00</td>
     </tr>
     <tr>
-      <td><NuxtLink to="/homework/2">HW2: Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, deserunt.</NuxtLink></td>
-      <td>1900-01-01</td>
-      <td>1900-01-01</td>
+      <td><NuxtLink to="">HW2: TBA</NuxtLink></td>
+      <td>2023-11-06</td>
+      <td>2023-11-13 18:00</td>
     </tr>
     <tr>
-      <td><NuxtLink to="/homework/3">HW3: Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, deserunt.</NuxtLink></td>
-      <td>1900-01-01</td>
-      <td>1900-01-01</td>
+      <td><NuxtLink to="">HW3: TBA</NuxtLink></td>
+      <td>2023-11-13</td>
+      <td>2023-11-20 18:00</td>
     </tr>
     <tr>
-      <td><NuxtLink to="/homework/4">HW4: Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, deserunt.</NuxtLink></td>
-      <td>1900-01-01</td>
-      <td>1900-01-01</td>
+      <td><NuxtLink to="">HW4: TBA</NuxtLink></td>
+      <td>2023-11-20</td>
+      <td>2023-11-27 18:00</td>
     </tr>
     <tr>
-      <td><NuxtLink to="/homework/5">HW5: Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, deserunt.</NuxtLink></td>
-      <td>1900-01-01</td>
-      <td>1900-01-01</td>
+      <td><NuxtLink to="">HW5: TBA</NuxtLink></td>
+      <td>2023-11-27</td>
+      <td>2023-12-04 18:00</td>
     </tr>
     <tr>
-      <td><NuxtLink to="/homework/6">HW6: Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, deserunt.</NuxtLink></td>
-      <td>1900-01-01</td>
-      <td>1900-01-01</td>
-    </tr>
-    <tr>
-      <td><NuxtLink to="/homework/7">HW7: Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, deserunt.</NuxtLink></td>
-      <td>1900-01-01</td>
-      <td>1900-01-01</td>
+      <td><NuxtLink to="">HW6: TBA</NuxtLink></td>
+      <td>2023-12-04</td>
+      <td>2023-12-11 18:00</td>
     </tr>
   </tbody>
 

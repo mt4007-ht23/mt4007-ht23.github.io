@@ -37,9 +37,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Tidyverse, Basic dplyr and
-    ggplot2. [Lecture Slides],
-    We start at 9am. Handledning starts as soon as lecture is done.
+     TBA
      </td>
     </tr>
     <tr>
@@ -52,9 +50,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Tidyverse: group_by and
-    summarise, more ggplot2., Peer review 08:45-09:30,
-    handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -67,8 +63,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Exploratory data
-    analysis., handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -81,9 +76,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Cleaning
-    data: Tidy data. Long to wide and back., Peer review
-    08:45-09:30, handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -96,8 +89,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Relational data: Combining
-    tables with dplyr joins., handledning 09:30-11:30
+      TBA
      </td>
     </tr>
     <tr>
@@ -110,9 +102,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Relational data: SQL
-    basics., Peer review 08:45-09:30, handledning
-    09:30-11:30
+      TBA
      </td>
     </tr>
     <tr>
@@ -125,9 +115,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Text
-    data: Regular expressions., Info on project by
-    Michael 08:45-09:30, handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -140,9 +128,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Using
-    APIs: httr, JSON and XML., Peer review 08:45-09:30,
-    handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -155,9 +141,7 @@
       13:00 - 17:00
      </td>
      <td>
-      R
-    programming: Functional programming, aka functions!,
-    handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -170,9 +154,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Intro
-    to Webscraping, Peer review 08:45-09:30, handledning
-    09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -185,10 +167,7 @@
       13:00 - 17:00
      </td>
      <td>
-      R
-    Programming: Functional programming with purrr,
-    Questions on project to Michael: 9AM, check Moodle for
-    Zoom-link!, handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -201,8 +180,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Wrap-up and option for questions, Peer
-    review 08:45-09:30, handledning 09:30-11:30
+     TBA
      </td>
     </tr>
     <tr>
@@ -215,8 +193,7 @@
       13:00 - 17:00
      </td>
      <td>
-      Zoom meeting with option for questions in preparation
-    for exam! Work on project!
+     TBA
      </td>
     </tr>
     <tr>
