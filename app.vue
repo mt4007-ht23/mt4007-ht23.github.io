@@ -9,7 +9,7 @@
 <!-- ./app.vue -->
 <script setup>
 useHead({
-  title: "Nuxt 3 + Content v2 Starter",
+  title: "MT4007",
   meta: [
     { name: 'description', content: 'Nuxt 3 + Content v2 Starter built by Miracleio' }
   ],
