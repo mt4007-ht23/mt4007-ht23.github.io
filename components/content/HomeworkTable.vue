@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><NuxtLink to="">HW1: TBA</NuxtLink></td>
+      <td><NuxtLink to="/homework/1">HW1: TBA</NuxtLink></td>
       <td>2023-10-30</td>
       <td>2023-11-06 18:00</td>
     </tr>
