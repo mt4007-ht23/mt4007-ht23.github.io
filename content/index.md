@@ -4,7 +4,8 @@ This is at the core of datascience. We will specifically be using the following 
 notebook](), [Git]() and [Github](). The course will give and introduction to these tools and how they are
 used in Data Science using practical excersises. The [lectures](/lectures) will
 include both theoretical and practical aspects using a combination of traditional lectures 
-and live demos. 
+and live demos. The course materies is based on ideas & material developed by Martin Sköld, Erik Thorsén and Michael Höhle.
+
 
 The main literature of the course will be 
 - [R for Data
