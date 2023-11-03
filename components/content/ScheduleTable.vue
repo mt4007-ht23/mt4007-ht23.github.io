@@ -37,7 +37,9 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     <NuxtLink to="/lecture/2">
+      Cont. Git & Introduction to Dataframes
+     </NuxtLink>
      </td>
     </tr>
     <tr>
