@@ -52,7 +52,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+      Cont. Dataframes & Plotting
      </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Exploratory Data Analysis
      </td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Working with dataframes, combining tables
      </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@
       13:00 - 17:00
      </td>
      <td>
-      TBA
+     Working with dataframes, cleaning data
      </td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@
       13:00 - 17:00
      </td>
      <td>
-      TBA
+     Basics of SQL
      </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Working with Regular Expressions
      </td>
     </tr>
     <tr>
@@ -130,7 +130,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Working with REST APIs
      </td>
     </tr>
     <tr>
@@ -143,7 +143,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Webscraping
      </td>
     </tr>
     <tr>
@@ -156,7 +156,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Functional Programming
      </td>
     </tr>
     <tr>
@@ -169,7 +169,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Extra block - Topic TBA -
      </td>
     </tr>
     <tr>
@@ -182,7 +182,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Wrap up, Questions about Exam and Project. Session for supervision
      </td>
     </tr>
     <tr>
@@ -195,7 +195,7 @@
       13:00 - 17:00
      </td>
      <td>
-     TBA
+     Session for supervision.
      </td>
     </tr>
     <tr>
