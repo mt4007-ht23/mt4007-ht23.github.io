@@ -8,10 +8,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
       { text: 'Lectures', link: '/lectures/' },
+      { text: 'Homework', link: '/homework/' },
+      { text: 'Project', link: '/project' },
+      { text: 'Exam', link: '/exam' },
     ],
-
     sidebar: {
       '/lectures/': [
         {
@@ -19,7 +20,15 @@ export default defineConfig({
           items: [
             { text: 'Lecture 1', link: '/lectures/1' },
             { text: 'Lecture 2', link: '/lectures/2' },
-            { text: 'Lecture 3', link: '/lectures/3' },
+          ]
+        }
+      ],
+      '/homework/': [
+        {
+          text: "Homework",
+          items: [
+            { text: 'Homework 1', link: '/homework/1' },
+            { text: 'Homework 2', link: '/homework/2' },
           ]
         }
       ],

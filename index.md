@@ -8,18 +8,10 @@ hero:
   tagline: Course page for Statistical Data Processing given at Stockholm University
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Github Organization
+      link: https://github.com/mt4007-ht23
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Course Information
+      link: /about
 ---
 
