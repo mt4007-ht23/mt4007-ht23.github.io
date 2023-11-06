@@ -4,7 +4,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MT4007 HT23",
   description: "Course page for MT4007 given at Stockholm University",
+  lastUpdated: true,
   themeConfig: {
+    search:{
+      provider: 'local'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
