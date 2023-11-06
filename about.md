@@ -2,7 +2,7 @@
 The course gives an introduction to obtaining, transforming, exploring and visualising data using modern tools.
 This is at the core of datascience. We will specifically be using the following tools: [Python]()/[R](), [Jupyter
 notebook](), [Git]() and [Github](). The course will give and introduction to these tools and how they are
-used in Data Science using practical excersises. The [lectures](/lectures) will
+used in Data Science using practical excersises. The [lectures](/lectures/) will
 include both theoretical and practical aspects using a combination of traditional lectures 
 and live demos. The course materies is based on ideas & material developed by Martin Sköld, Erik Thorsén, Michael Höhle and Felix Günther.
 
@@ -25,7 +25,7 @@ is used for forum discussion and registration.
 ## Examination
 Examination of the course consists of three parts
 - Weekly individual homework assignments with sharp deadlines and peer review,
-  see [Homework](/homework)
+  see [Homework](/homework/)
 - An individual project, see [Project](/project)
 - A theoretical take home exam, see [Exam](/exam)
 
