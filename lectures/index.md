@@ -13,7 +13,7 @@ to me during the allotted lecture times. Use it!
 |----------:|:-------------------------------|:-----------------------------------------------------------------------------------|
 |        1  | Tue, Oct 31 13:00 - 17:00      | [Introduction. Software, GitHub and Markdown](/lectures/1)                         |
 |        2  | Tue 2023-11-07,  13:00 - 17:00 | [Cont. Git & Introduction to Dataframes](/lectures/2)                              |
-|        3  | Fri 2023-11-10,  13:00 - 17:00 | [Plotting & Graphing]()                                         |
+|        3  | Fri 2023-11-10,  13:00 - 17:00 | [Visualising Data: Plots]()                                         |
 |        4  | Tue 2023-11-14,  13:00 - 17:00 | [Working with tables: Joins & Pivots]()                                          |
 |        5  | Fri 2023-11-17,  13:00 - 17:00 | [Working with tables: Processing data]()                           |
 |        6  | Tue 2023-11-21,  13:00 - 17:00 | [Exploratory Data Analysis]()                              |
