@@ -4,7 +4,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MT4007 HT23",
   description: "Course page for MT4007 given at Stockholm University",
+  markdown: {
+    math: true
+  },
   themeConfig: {
+    editLink: {
+      pattern:"https://github.com/mt4007-ht23/mt4007-ht23.github.io/issues/new?title=:path",
+      text:"Suggest a change or notify an issue on this page"
+    },
     search:{
       provider: 'local'
     },
@@ -23,6 +30,7 @@ export default defineConfig({
           items: [
             { text: 'Lecture 1', link: '/lectures/1' },
             { text: 'Lecture 2', link: '/lectures/2' },
+            { text: 'Lecture 3', link: '/lectures/3' },
           ]
         }
       ],
