@@ -1,8 +1,7 @@
 # Exam
-- **Date & Time:** The date of the exam will be determined after November 9th
+- **Date & Time:** 8th of January (Monday), 2024
 
-The exam will be a digital take-home exam which is set to take place on **EXAM
-DATE**.
+The exam will be a digital take-home exam which is set to take place on **8th of January, 2024**.
 You will have 9 hours to complete the exam but you will probably not need the full time to complete the exam.
 I have added extra time for you to be able to think and also to account for
 problems that may arise. Also, we reserve the right to conduct an oral
