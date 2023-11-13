@@ -31,6 +31,7 @@ export default defineConfig({
             { text: 'Lecture 1', link: '/lectures/1' },
             { text: 'Lecture 2', link: '/lectures/2' },
             { text: 'Lecture 3', link: '/lectures/3' },
+            { text: 'Lecture 4', link: '/lectures/4' },
           ]
         }
       ],
@@ -40,6 +41,7 @@ export default defineConfig({
           items: [
             { text: 'Homework 1', link: '/homework/1' },
             { text: 'Homework 2', link: '/homework/2' },
+            { text: 'Homework 3', link: '/homework/3' },
           ]
         }
       ],
