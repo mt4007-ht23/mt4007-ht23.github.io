@@ -43,10 +43,10 @@ your feedback under the issue that has been raised. **Do not close the issue**.
 ## Schedule
 
 | Homework                            | Solve      | Deadline         |
-|:------------------------------------|:-----------|:-----------------| | [HW1:
-GitHub test-run](/homework/1) | 2023-10-31 | 2023-11-05 23:59 | | [HW2: Working
-with Tables: Basic Operations](/homework/2)| 2023-11-06 | 2023-11-12 23:59 | |
-[HW3: Exploring & Visualising Data](/homework/3)    | 2023-11-13 | 2023-11-19
-23:59 | | [HW4: Working with Tables: Wrangling Data]() | 2023-11-20 | 2023-11-26
-23:59 | | [HW5: SQL & RegEx]()             | 2023-11-27 | 2023-12-03 23:59 | |
-[HW6: Data from the web]()       | 2023-12-04 | 2023-12-10 23:59 |
+|:------------------------------------|:-----------|:-----------------| 
+| [HW1:GitHub test-run](/homework/1) | 2023-10-31 | 2023-11-05 23:59 | 
+| [HW2: Workingwith Tables: Basic Operations](/homework/2)| 2023-11-06 | 2023-11-12 23:59 | 
+| [HW3: Exploring & Visualising Data](/homework/3)    | 2023-11-13 | 2023-11-19 23:59 | 
+| [HW4: Working with Tables: Wrangling Data]() | 2023-11-20 | 2023-11-26 23:59 | 
+| [HW5: SQL & RegEx]()             | 2023-11-27 | 2023-12-03 23:59 | 
+| [HW6: Data from the web]()       | 2023-12-04 | 2023-12-10 23:59 |
