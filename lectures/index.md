@@ -16,7 +16,7 @@ to me during the allotted lecture times. Use it!
 |        3  | Fri 2023-11-10,  13:00 - 17:00 | [Visualising Data: Plots](/lectures/3)                                         |
 |        4  | Tue 2023-11-14,  13:00 - 17:00 | [Exploratory Data Analysis](/lectures/4)                                          |
 |        5  | Fri 2023-11-17,  13:00 - 17:00 | [Working with tables: Processing data](/lectures/5)                           |
-|        6  | Tue 2023-11-21,  13:00 - 17:00 | [Working with tables: Joins & Pivot]()                         |
+|        6  | Tue 2023-11-21,  13:00 - 17:00 | [Working with tables: Combining data](/lectures/6)                         |
 |        7  | Fri 2023-11-24,  13:00 - 17:00 | [Basics of SQL]()                                                       |
 |        8  | Tue 2023-11-28,  13:00 - 17:00 | [Working with Regular Expressions]()                                    |
 |        9  | Fri 2023-12-01,  13:00 - 17:00 | [Working with REST APIs]()                                              |

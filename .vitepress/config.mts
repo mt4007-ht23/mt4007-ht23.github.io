@@ -33,6 +33,7 @@ export default defineConfig({
             { text: 'Lecture 3', link: '/lectures/3' },
             { text: 'Lecture 4', link: '/lectures/4' },
             { text: 'Lecture 5', link: '/lectures/5' },
+            { text: 'Lecture 6', link: '/lectures/6' },
           ]
         }
       ],
@@ -48,7 +49,7 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/mt4007-ht23' }
     ]
   }
 })
