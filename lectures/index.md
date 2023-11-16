@@ -9,6 +9,8 @@ You can find the code for the lecture demos in the following [Github repository]
 The lectures are **not** mandatory, but highly recommended. You will have direct access
 to me during the allotted lecture times. Use it!
 
+## Schedule
+
 |   Lecture | Date                           | Topic                                                                              |
 |----------:|:-------------------------------|:-----------------------------------------------------------------------------------|
 |        1  | Tue, Oct 31 13:00 - 17:00      | [Introduction. Software, GitHub and Markdown](/lectures/1)                         |
