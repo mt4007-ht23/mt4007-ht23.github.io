@@ -11,9 +11,9 @@ homework in time you will need to do extra work.
 The assigment will consists of a few tasks that test you on the material we have
 done in the previous weeks. The homework will be available on the solve date,
 that is when we have gone through the relevant material for the assignment. They
-will get more difficult throughout the course. Report the solutions to the tasks
-in form of a blogpost with clear explanations and documentation of the
-procedure, **not as list of answers**.
+will get more difficult throughout the course. Report the solutions to the
+assgiments in form of a blogpost with clear explanations and documentation of
+the procedure, **not as list of answers**.
 
 The homework is submitted to the github organisation under your own repository.
 When you are finished *raise an issue*, otherwise we will not grade your
@@ -44,9 +44,9 @@ your feedback under the issue that has been raised. **Do not close the issue**.
 
 | Homework                            | Solve      | Deadline         |
 |:------------------------------------|:-----------|:-----------------| 
-| [HW1:GitHub test-run](/homework/1) | 2023-10-31 | 2023-11-05 23:59 | 
+| [HW1: GitHub test-run](/homework/1) | 2023-10-31 | 2023-11-05 23:59 | 
 | [HW2: Workingwith Tables: Basic Operations](/homework/2)| 2023-11-06 | 2023-11-12 23:59 | 
 | [HW3: Exploring & Visualising Data](/homework/3)    | 2023-11-13 | 2023-11-19 23:59 | 
-| [HW4: Working with Tables: Wrangling Data]() | 2023-11-20 | 2023-11-26 23:59 | 
-| [HW5: SQL & RegEx]()             | 2023-11-27 | 2023-12-03 23:59 | 
-| [HW6: Data from the web]()       | 2023-12-04 | 2023-12-10 23:59 |
+| [HW4: Working with Tables: Data Prepartion](/homework/4) | 2023-11-21 | 2023-11-26 23:59 | 
+| [HW5: SQL & RegEx]()             | 2023-11-28 | 2023-12-03 23:59 | 
+| [HW6: Data from the web]()       | 2023-12-05 | 2023-12-10 23:59 |

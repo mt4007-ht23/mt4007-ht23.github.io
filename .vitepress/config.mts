@@ -44,6 +44,7 @@ export default defineConfig({
             { text: 'Homework 1', link: '/homework/1' },
             { text: 'Homework 2', link: '/homework/2' },
             { text: 'Homework 3', link: '/homework/3' },
+            { text: 'Homework 4', link: '/homework/4' },
           ]
         }
       ],
