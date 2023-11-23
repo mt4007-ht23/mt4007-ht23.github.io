@@ -5,7 +5,7 @@ export default defineConfig({
   title: "MT4007 HT23",
   description: "Course page for MT4007 given at Stockholm University",
   markdown: {
-    math: true
+    math: true,
   },
   themeConfig: {
     editLink: {
