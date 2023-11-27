@@ -20,7 +20,7 @@ to me during the allotted lecture times. Use it!
 |        5  | Fri 2023-11-17,  13:00 - 17:00 | [Working with tables: Processing data](/lectures/5)                           |
 |        6  | Tue 2023-11-21,  13:00 - 17:00 | [Working with tables: Combining data](/lectures/6)                         |
 |        7  | Fri 2023-11-24,  13:00 - 17:00 | [Basics of SQL](/lectures/7)                                                       |
-|        8  | Tue 2023-11-28,  13:00 - 17:00 | [Working with Regular Expressions]()                                    |
+|        8  | Tue 2023-11-28,  13:00 - 17:00 | [Working with Regular Expressions](/lectures/8)                                    |
 |        9  | Fri 2023-12-01,  13:00 - 17:00 | [REST APIs]()                                              |
 |       10  | Tue 2023-12-05,  13:00 - 17:00 | [Webscraping]()                                                        |
 |       11  | Fri 2023-12-08,  13:00 - 17:00 | [Functional Programming]()                                             |
