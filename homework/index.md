@@ -49,4 +49,4 @@ your feedback under the issue that has been raised. **Do not close the issue**.
 | [HW3: Exploring & Visualising Data](/homework/3)    | 2023-11-13 | 2023-11-19 23:59 | 
 | [HW4: Working with Tables: Data Prepartion](/homework/4) | 2023-11-21 | 2023-11-26 23:59 | 
 | [HW5: SQL & RegEx](/homework/5)             | 2023-11-28 | 2023-12-03 23:59 | 
-| [HW6: Data from the web]()       | 2023-12-05 | 2023-12-10 23:59 |
+| [HW6: Data from the web](/homework/6)       | 2023-12-05 | 2023-12-10 23:59 |
