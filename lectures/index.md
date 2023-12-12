@@ -23,8 +23,8 @@ to me during the allotted lecture times. Use it!
 |        8  | Tue 2023-11-28,  13:00 - 17:00 | [Working with Regular Expressions](/lectures/8)                                    |
 |        9  | Fri 2023-12-01,  13:00 - 17:00 | [REST APIs](/lectures/9)                                              |
 |       10  | Tue 2023-12-05,  13:00 - 17:00 | [Webscraping](/lectures/10)                                                        |
-|       11  | Fri 2023-12-08,  13:00 - 17:00 | [Functional Programming]()                                             |
-|       12  | Tue 2023-12-12,  13:00 - 17:00 | [Extra block - Topic TBA -]()                                          |
+|       11  | Fri 2023-12-08,  13:00 - 17:00 | [Functional Programming](/lectures/11)                                             |
+|       12  | Tue 2023-12-12,  13:00 - 17:00 | [Extra block]()                                          |
 |       13  | Fri 2023-12-15,  13:00 - 17:00 | [Wrap up, Questions about Exam and Project. Session for supervision]() |
 |       14  | Tue 2023-12-19,  13:00 - 17:00 | [Session for supervision.]()                                           |
 |       15  | Fri 2024-01-12,  12:00 - 18:00 | [Project presentation.]()                                              |

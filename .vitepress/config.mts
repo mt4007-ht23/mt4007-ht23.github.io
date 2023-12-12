@@ -38,6 +38,7 @@ export default defineConfig({
             { text: 'Lecture 8', link: '/lectures/8' },
             { text: 'Lecture 9', link: '/lectures/9' },
             { text: 'Lecture 10', link: '/lectures/10' },
+            { text: 'Lecture 11', link: '/lectures/11' },
           ]
         }
       ],
