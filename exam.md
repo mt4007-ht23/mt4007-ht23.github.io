@@ -3,6 +3,7 @@
 
 - **Date & Time:** 8th of January (Monday), 2024, 12:00-21:00
 - **Graded A-F**
+- No Ladok Registration!
 
 **LINK TO EXAM, will be added here on the day of the exam!**
 
