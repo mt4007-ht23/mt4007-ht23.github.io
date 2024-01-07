@@ -1,11 +1,10 @@
 # Exam
 
-
 - **Date & Time:** 8th of January (Monday), 2024, 12:00-21:00
 - **Graded A-F**
 - No Ladok Registration!
 
-**LINK TO EXAM, will be added here on the day of the exam!**
+**[Go to the exam](/exam/20240108)**
 
 ## Overview
 
@@ -22,9 +21,6 @@ as it is your own solution. This means, that you are **NOT** allowed to copy
 code from the internet, copy code from chat-gpt, use libraries that are
 non-standard, etc. However, you can use these sources of inspiration.
 
-
-
-
 ## Format
 
 The exam has **two** parts: a theoretical section and a practical section. Both
@@ -36,7 +32,6 @@ The theoretical section comprises **three** tasks, each valued at **five**
 points. A minimum of **seven** points is necessary to pass this segment. These tasks
 are designed to evaluate your understanding of the course concepts, emphasizing
 understanding of the main points covered in the course.
-
 
 ### Practical
 

@@ -21,7 +21,7 @@ export default defineConfig({
       { text: 'Lectures', link: '/lectures/' },
       { text: 'Homework', link: '/homework/' },
       { text: 'Project', link: '/project' },
-      { text: 'Exam', link: '/exam' },
+      { text: 'Exam', link: '/exam/' },
     ],
     sidebar: {
       '/lectures/': [
