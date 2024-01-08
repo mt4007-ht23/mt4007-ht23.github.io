@@ -27,7 +27,7 @@ Examination of the course consists of three parts
 - Weekly individual homework assignments with sharp deadlines and peer review,
   see [Homework](/homework/)
 - An individual project, see [Project](/project)
-- A theoretical take home exam, see [Exam](/exam)
+- A theoretical take home exam, see [Exam](/exam/)
 
 ## Contact
 The contact info to the TAs can be found on the Moodle page.
