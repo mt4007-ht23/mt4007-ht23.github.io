@@ -4,6 +4,8 @@
 - **Graded A-F**
 - No Ladok Registration!
 
+**[Go to the re-exam](/exam/20240216)**
+
 **[Go to the exam](/exam/20240108)**
 
 ## Overview
